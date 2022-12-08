@@ -1,3 +1,17 @@
 h1 {
+  color: aliceblue;
+  font-size: 100px;
+}
+
+.Guessing {
+  display: flex;
+  justify-content: center;
+  background-color: blue;
+  height: 50%;
+}
+
+.button {
   font-size: 50px;
+  display: flex;
+  justify-content: center;
 }
